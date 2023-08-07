@@ -1,6 +1,6 @@
-# Lunar-Woofer
-Lunar Spoofer
-|Lunar Spoofer| Lunar Spoofer is one of the best FREE spoofers that ever came out (UNDETECTED AS OF NOW)
+# Lunar-Grabber
+Lunar Grabber
+|Lunar Grabber| Lunar Grabber is one of the best FREE Grabbess that ever came out (UNDETECTED AS OF NOW)
 
 To use run the EXE file located in the Files this will bring you to the spoofer section of the process MAKE SURE TO TYPE N FOR RESET ADAPTERS OPTION
 
@@ -10,4 +10,4 @@ MAKE SURE TO CLEAN
 
 MAKE SURE TO TURN YOUR ANTI-VIRUS OFF ENJOY!
 
-PERM SPOOFER TEMP SPOOFER
+PERM Grabber TEMP Grabber
